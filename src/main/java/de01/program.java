@@ -47,7 +47,7 @@ public class program {
                     quanLy.xuatThongTin();
                     break;
                 case 3:
-                    quanLy.timCauThuLuongThapNhat();
+                    quanLy.timCauThuluongcaonhat();
                     break;
                case 4:
                   quanLy.sapXepTheoLuong();
